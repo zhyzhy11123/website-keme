@@ -201,7 +201,6 @@ h3 {
 .layer h3 {
   width: 100%;
   font-weight: 500;
-  color: white;
   font-size: 26px;
   bottom: 0;
   left: 50%;
@@ -214,4 +213,5 @@ h3 {
 .layer:hover h3 {
   bottom: 49%;
   opacity: 1;
+  color: white;
 }
